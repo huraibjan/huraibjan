@@ -1,15 +1,10 @@
 # 💫 About Me:
 
 🔭 I’m currently building production-ready AI and software systems — from local and cloud-based LLMs and intelligent agents to secure APIs, scalable SaaS platforms, automation workflows, cloud infrastructure, and multi-agent orchestration.<br><br>
-
 👯 I’m looking to collaborate on AI automation platforms, agentic systems, RAG applications, voice AI, enterprise SaaS, cybersecurity solutions, developer tools, and real-world business automation products.<br><br>
-
 🤝 I’m interested in opportunities where I can help teams reduce operational complexity, automate workflows, modernize architecture, improve system intelligence, and build scalable AI-powered products for the U.S. market.<br><br>
-
 🌱 My current focus includes advanced agentic workflows, MLOps, DevOps, cloud architecture, distributed systems, secure AI infrastructure, performance optimization, application security, and enterprise-grade system design.<br><br>
-
 💬 My experience spans AI agents, LLMs, RAG pipelines, multi-agent systems, FastAPI, Laravel, Next.js, Flutter, n8n, AWS, Google Cloud, cybersecurity, APIs, automation, and scalable system architecture.<br><br>
-
 ⚡ I work across the full product lifecycle — translating business requirements into architecture, technical strategy, AI workflows, backend systems, cloud infrastructure, applications, deployment, and production-ready platforms.
 
 
