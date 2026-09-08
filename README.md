@@ -1,5 +1,16 @@
 # 💫 About Me:
-🔭 I’m currently building production-ready AI systems — from local LLMs with Ollama to task-specific agents, secure microservices, full-stack platforms, automation workflows, and multi-agent orchestration.<br><br>👯 I’m looking to collaborate on AI automation platforms, agentic AI systems, RAG applications, voice AI, SaaS products, cybersecurity tools, and real-world business automation projects.<br><br>🤝 I’m looking for opportunities where I can help teams reduce operational costs, automate workflows, improve system intelligence, and build scalable AI-powered products for the U.S. market.<br><br>🌱 I’m currently working and improving in advanced agentic workflows, MLOps, DevOps, cloud deployment, secure AI architecture, vulnerability optimization, and enterprise-grade AI system design.<br><br>💬 Ask me about AI agents, Ollama, RAG pipelines, multi-agent systems, FastAPI, Next.js, Flutter, n8n, Coolify, AWS, Google Cloud, cybersecurity ML, and automation architecture.<br><br>⚡ Fun fact: I don’t just build demos — I build full product systems from idea, requirements, architecture, AI workflow, backend, dashboard, mobile app, deployment, and business presentation.
+
+🔭 I’m currently building production-ready AI and software systems — from local and cloud-based LLMs and intelligent agents to secure APIs, scalable SaaS platforms, automation workflows, cloud infrastructure, and multi-agent orchestration.<br><br>
+
+👯 I’m looking to collaborate on AI automation platforms, agentic systems, RAG applications, voice AI, enterprise SaaS, cybersecurity solutions, developer tools, and real-world business automation products.<br><br>
+
+🤝 I’m interested in opportunities where I can help teams reduce operational complexity, automate workflows, modernize architecture, improve system intelligence, and build scalable AI-powered products for the U.S. market.<br><br>
+
+🌱 My current focus includes advanced agentic workflows, MLOps, DevOps, cloud architecture, distributed systems, secure AI infrastructure, performance optimization, application security, and enterprise-grade system design.<br><br>
+
+💬 My experience spans AI agents, LLMs, RAG pipelines, multi-agent systems, FastAPI, Laravel, Next.js, Flutter, n8n, AWS, Google Cloud, cybersecurity, APIs, automation, and scalable system architecture.<br><br>
+
+⚡ I work across the full product lifecycle — translating business requirements into architecture, technical strategy, AI workflows, backend systems, cloud infrastructure, applications, deployment, and production-ready platforms.
 
 
 ## 🌐 Socials:
